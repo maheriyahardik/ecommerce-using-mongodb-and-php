@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  },
+  "name": "General purpose"
+},
+{
+  "_id": {
+    "$oid": "67c5d74d22a5627d3908c007"
+  },
+  "name": "Ultrabooks"
+},
+{
+  "_id": {
+    "$oid": "67c5d77f22a5627d3908c008"
+  },
+  "name": "Gaming Laptops"
+},
+{
+  "_id": {
+    "$oid": "67c5d78d22a5627d3908c009"
+  },
+  "name": "Business Laptops"
+},
+{
+  "_id": {
+    "$oid": "67c5d79a22a5627d3908c00a"
+  },
+  "name": "Chromebooks"
+},
+{
+  "_id": {
+    "$oid": "67c5d7a522a5627d3908c00b"
+  },
+  "name": "Netbooks"
+},
+{
+  "_id": {
+    "$oid": "67c5d7b222a5627d3908c00c"
+  },
+  "name": "MacBooks"
+},
+{
+  "_id": {
+    "$oid": "67c5d7c222a5627d3908c00d"
+  },
+  "name": "2-in-1 Laptops"
+},
+{
+  "_id": {
+    "$oid": "67c6b739faa07901250e74e6"
+  },
+  "name": "mobile phone"
+},
+{
+  "_id": {
+    "$oid": "6811b5e5e7c174dcdc0b3939"
+  },
+  "name": "test"
+}]

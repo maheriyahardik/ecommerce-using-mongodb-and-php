@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "67ee8008d7d833691404cde9"
+  },
+  "username": "hardik",
+  "product_id": {
+    "$oid": "67c6837d1a285dff5b0f53b8"
+  },
+  "product_name": "HP ZBook Firefly",
+  "price": 165999,
+  "quantity": 2,
+  "image": "uploads/1741063037_c08925145_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "67ee90c3d7d833691404cdf4"
+  },
+  "username": "maheriya",
+  "product_id": {
+    "$oid": "67c5e2ca22a5627d3908c020"
+  },
+  "product_name": "Lenovo IdeaPad Slim 1",
+  "price": 35190,
+  "quantity": 1,
+  "image": "uploads/Lenovo IdeaPad Slim 1.jpeg"
+}]

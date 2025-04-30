@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "67c5e2ca22a5627d3908c020"
+  },
+  "name": "Lenovo IdeaPad Slim 1",
+  "category_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  },
+  "subcategory_id": {
+    "$oid": "67c5d83922a5627d3908c00e"
+  },
+  "price": 35190,
+  "description": "The Lenovo IdeaPad Slim 1 is powered by an AMD Ryzen 5 Hexa Core 5500U processor, 8 GB RAM, and a 512 GB SSD. It features a 15.6-inch display and comes with Windows 11 Home. This laptop is suitable for daily computing tasks and offers a balance between performance and affordability.",
+  "stock": 1,
+  "image": "uploads/Lenovo IdeaPad Slim 1.jpeg"
+},
+{
+  "_id": {
+    "$oid": "67c680491a285dff5b0f53ad"
+  },
+  "name": "Dell XPS 15",
+  "category_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  },
+  "subcategory_id": {
+    "$oid": "67c5d84922a5627d3908c00f"
+  },
+  "price": 234990,
+  "description": "The Dell XPS 15 features a 15.6-inch OLED touchscreen with a 3.5K resolution (3456×2160). It's powered by a 13th Gen Intel Core i7-13700H processor with 14 cores and an NVIDIA GeForce RTX 4050 GPU with 6GB GDDR6 VRAM, making it ideal for creators seeking top-notch display and performance.",
+  "stock": 5,
+  "image": "uploads/1741062217_dell xps.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c680ba1a285dff5b0f53ae"
+  },
+  "name": "Microsoft Surface Pro 8",
+  "category_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  },
+  "subcategory_id": {
+    "$oid": "67c5de1c22a5627d3908c01e"
+  },
+  "price": 64000,
+  "description": "The Surface Pro 8 features a 13-inch PixelSense touchscreen, powered by the 11th Gen Intel Core i5 processor, 8GB RAM, and a 128GB SSD. It's designed for versatility, allowing seamless transition between tablet and laptop modes",
+  "stock": 0,
+  "image": "uploads/1741062330_th.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c681101a285dff5b0f53af"
+  },
+  "name": "HP Spectre x360",
+  "category_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  },
+  "subcategory_id": {
+    "$oid": "67c5debe22a5627d3908c01f"
+  },
+  "price": 140000,
+  "description": "This 2-in-1 convertible laptop comes with a 13.3-inch touchscreen display, Intel Core i7 processor, 16GB RAM, and a 512GB SSD. Its flexible design, high-quality build, and strong performance cater to users seeking versatility and style.",
+  "stock": 0,
+  "image": "uploads/1741062416_th (1).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c681781a285dff5b0f53b0"
+  },
+  "name": "Dell Pro 14 Premium",
+  "category_id": {
+    "$oid": "67c5d74d22a5627d3908c007"
+  },
+  "subcategory_id": {
+    "$oid": "67c5d8cc22a5627d3908c010"
+  },
+  "price": 150000,
+  "description": "Intel Core Ultra 7 Series processor\r\n32GB RAM\r\nUp to 2TB M.2 SSD storage\r\n14-inch 2880 x 1800 tandem OLED display\r\n8MP HDR webcam\r\nDual-fan thermal design for quieter operation\r\nExtensive connectivity options including HDMI 2.1, USB 3.2 Gen 1 (Type-A), and Thunderbolt 4/USB-C ports",
+  "stock": 0,
+  "image": "uploads/1741062520_th (2).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c681d01a285dff5b0f53b3"
+  },
+  "name": "Asus VivoBook S14 S433FL-EB199TS Ultrabook",
+  "category_id": {
+    "$oid": "67c5d74d22a5627d3908c007"
+  },
+  "subcategory_id": {
+    "$oid": "67c5d8dd22a5627d3908c011"
+  },
+  "price": 68990,
+  "description": "Processor: Intel Core i7 10th Gen\r\nRAM: 8 GB\r\nStorage: 512 GB SSD\r\nGraphics: 2 GB NVIDIA GeForce MX250\r\nOperating System: Windows 10\r\nDescription: The Asus VivoBook S14 combines style and performance, featuring a sleek design and powerful internals suitable for both work and entertainment.",
+  "stock": 0,
+  "image": "uploads/1741062608_th (3).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c6822e1a285dff5b0f53b4"
+  },
+  "name": "ASUS TUF Gaming F15 FX506HF-HN075W",
+  "category_id": {
+    "$oid": "67c5d77f22a5627d3908c008"
+  },
+  "subcategory_id": {
+    "$oid": "67c5d92222a5627d3908c012"
+  },
+  "price": 50000,
+  "description": "This laptop features an 11th Gen Intel Core i5 processor, 8GB RAM, and a 512GB SSD. It's equipped with an NVIDIA GeForce RTX 2050 GPU with 4GB GDDR6 memory, suitable for modern AAA games at low to medium settings. The 15.6-inch FHD display supports a 144Hz refresh rate.",
+  "stock": 4,
+  "image": "uploads/1741062702_th (4).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c6828b1a285dff5b0f53b5"
+  },
+  "name": "ASUS TUF Gaming A15",
+  "category_id": {
+    "$oid": "67c5d77f22a5627d3908c008"
+  },
+  "subcategory_id": {
+    "$oid": "67c5d93222a5627d3908c013"
+  },
+  "price": 63990,
+  "description": "Processor: AMD Ryzen 7 7435HS\r\nRAM: 16 GB\r\nStorage: 512 GB SSD\r\nGraphics: NVIDIA GeForce RTX 3050\r\nDisplay: 15.6-inch FHD 144Hz\r\nOperating System: Windows 11\r\nWeight: 2.3 kg",
+  "stock": 3,
+  "image": "uploads/1741062795_th (5).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c6837d1a285dff5b0f53b8"
+  },
+  "name": "HP ZBook Firefly",
+  "category_id": {
+    "$oid": "67c5d78d22a5627d3908c009"
+  },
+  "subcategory_id": {
+    "$oid": "67c5d97222a5627d3908c014"
+  },
+  "price": 165999,
+  "description": "Intel® Core™ Ultra 7 processor\r\nWindows 11 Pro\r\n40.6 cm (16) diagonal, WUXGA display with NVIDIA RTX™ A500 Graphics\r\n32 GB DDR5-5600 MHz RAM\r\n1 TB PCIe® NVMe™ SSD Solid State Drive",
+  "stock": 2,
+  "image": "uploads/1741063037_c08925145_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c684331a285dff5b0f53bb"
+  },
+  "name": "Lenovo Intel Core Ultra 16",
+  "category_id": {
+    "$oid": "67c5d78d22a5627d3908c009"
+  },
+  "subcategory_id": {
+    "$oid": "67c5d98222a5627d3908c015"
+  },
+  "price": 126000,
+  "description": "Lenovo IdeaPad Pro 5 16\" Overview Featured: Create Stunning Content Take on demanding projects with an Intel Core Ultra 9, GeForce RTX 4050, 16 OLED touchscreen",
+  "stock": 5,
+  "image": "uploads/1741063219_shopping.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c684b01a285dff5b0f53bc"
+  },
+  "name": "Lenovo Chromebook MediaTek Kompanio 520",
+  "category_id": {
+    "$oid": "67c5d79a22a5627d3908c00a"
+  },
+  "subcategory_id": {
+    "$oid": "67c5da0122a5627d3908c016"
+  },
+  "price": 22190,
+  "description": "4 GB/128 GB EMMC Storage/Chrome OS)",
+  "stock": 4,
+  "image": "uploads/1741063344_-original-imagy3tzbj3xgvu4.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c685011a285dff5b0f53bd"
+  },
+  "name": "HP Chromebook X360 ",
+  "category_id": {
+    "$oid": "67c5d79a22a5627d3908c00a"
+  },
+  "subcategory_id": {
+    "$oid": "67c5da1622a5627d3908c017"
+  },
+  "price": 26600,
+  "description": " (4 GB/64 GB EMMC Storage/Chrome OS) 14a-ca0506TU Chromebook  (14 Inch, Mineral Silver, 1.49 Kg)",
+  "stock": 5,
+  "image": "uploads/1741063425_shopping (1).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c685561a285dff5b0f53c0"
+  },
+  "name": "Primebook 4G Android Based MediaTek MT8788",
+  "category_id": {
+    "$oid": "67c5d7a522a5627d3908c00b"
+  },
+  "subcategory_id": {
+    "$oid": "67c5da4e22a5627d3908c018"
+  },
+  "price": 14099,
+  "description": "Netbook\r\nYes\r\nDrive Type\r\nSolid State Drive\r\nWeight\r\n1.07 kg\r\nDrive Capacity\r\n64 GB drive\r\nScreen Size\r\n11.6 in\r\nInstalled Memory\r\n4 GB RAM\r\nProcessor Speed\r\n2 GHz CPU\r\nBattery Life\r\n8 hours battery life",
+  "stock": 0,
+  "image": "uploads/1741063510_shopping (2).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c685951a285dff5b0f53c1"
+  },
+  "name": "HP Chromebook X360 Intel Celeron N4120",
+  "category_id": {
+    "$oid": "67c5d7a522a5627d3908c00b"
+  },
+  "subcategory_id": {
+    "$oid": "67c5da6122a5627d3908c019"
+  },
+  "price": 26800,
+  "description": "Resolution\r\n1366 x 768\r\nBrand\r\nHP\r\nOperating System\r\nChrome OS\r\nProcessor Brand\r\nIntel CPU\r\nTouchscreen\r\nYes\r\nNumber of Cores\r\nDual Core\r\nWeight\r\n1.49 kg\r\nDrive Capacity\r\n64 GB drive\r\nScreen Size\r\n14 in\r\nInstalled Memory\r\n4 GB RAM\r\nProcessor Speed\r\n1.1 GHz CPU",
+  "stock": 4,
+  "image": "uploads/1741063573_shopping (3).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c685f01a285dff5b0f53c2"
+  },
+  "name": "Apple MacBook",
+  "category_id": {
+    "$oid": "67c5d7b222a5627d3908c00c"
+  },
+  "subcategory_id": {
+    "$oid": "67c5daad22a5627d3908c01a"
+  },
+  "price": 96990,
+  "description": " (16 GB/256 GB SSD/macOS Sequoia) MC7W4HN/A  (13.6 Inch, Starlight, 1.24 kg)",
+  "stock": 5,
+  "image": "uploads/1741063664_-original-imagypv6prbgkfzg.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c686441a285dff5b0f53c3"
+  },
+  "name": "Apple 13 inch MacBook Air M2",
+  "category_id": {
+    "$oid": "67c5d7b222a5627d3908c00c"
+  },
+  "subcategory_id": {
+    "$oid": "67c5dac322a5627d3908c01b"
+  },
+  "price": 99900,
+  "description": "(16 GB/256 GB SSD/macOS Sequoia) MC7U4HN/A  (13.6 Inch, Space Grey, 1.24 kg)",
+  "stock": 5,
+  "image": "uploads/1741063748_Untitled.jpg"
+},
+{
+  "_id": {
+    "$oid": "67c6868c1a285dff5b0f53c4"
+  },
+  "name": "IdeaPad Flex 5 Gen 7",
+  "category_id": {
+    "$oid": "67c5d7c222a5627d3908c00d"
+  },
+  "subcategory_id": {
+    "$oid": "67c5daea22a5627d3908c01c"
+  },
+  "price": 64400,
+  "description": "Resolution\r\n1920 x 1080\r\nBrand\r\nLenovo\r\nOperating System\r\nWindows OS\r\nProcessor Brand\r\nAMD CPU\r\nGraphics Processor\r\nAMD GPU\r\nTouchscreen\r\nYes\r\nDrive Type\r\nSolid State Drive\r\nNumber of Cores\r\nHexa Core\r\nColour\r\nGrey, Grey, Platinum\r\nAvailable Ports\r\nHDMI\r\nBiometric Security\r\nFingerprint Scan\r\nEPEAT-registered\r\nYes\r\nWeight\r\n1.5 kg\r\nDrive Capacity\r\n128 GB drive, 256 GB drive, 512 GB drive, 1 TB drive\r\nScreen Size\r\n14 in\r\nInstalled Memory\r\n1 GB RAM, 4 GB RAM, 8 GB RAM, 16 GB RAM\r\nBattery Life\r\n12 hours battery life",
+  "stock": 4,
+  "image": "uploads/1741063820_shopping (4).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c686ce1a285dff5b0f53c5"
+  },
+  "name": "Microsoft Surface Pro 11th",
+  "category_id": {
+    "$oid": "67c5d7c222a5627d3908c00d"
+  },
+  "subcategory_id": {
+    "$oid": "67c5dafc22a5627d3908c01d"
+  },
+  "price": 131000,
+  "description": "Included Accessories\r\nCharger\r\nSupported Acc\r\nExternal keyboard\r\nWi-Fi\r\nWi-Fi 7\r\nBluetooth\r\n5.4\r\nCellular\r\n5G\r\nConnectivity Highlights\r\nGPS\r\nPorts &amp; Interfaces\r\nUSB-C\r\nBattery Life\r\n14 Hours\r\nBattery Capacity\r\n48 Wh\r\nBattery Run Time\r\n14 Hours\r\nBattery Type\r\nLithium-ion\r\nCharge Power\r\n39 W\r\nCharge Tech\r\nFast charging\r\nRemovable Battery\r\nNo\r\nSecurity Features\r\nWindows Hello\r\nCam Resolution\r\n10.5 MP\r\nCam Features\r\nWith Web Camera\r\nCam Light Source\r\nInfrared\r\nTop Use Cases\r\nProductivity",
+  "stock": 5,
+  "image": "uploads/1741063886_shopping (5).jpg"
+},
+{
+  "_id": {
+    "$oid": "67c6b794faa07901250e74e8"
+  },
+  "name": "iphone15",
+  "category_id": {
+    "$oid": "67c6b739faa07901250e74e6"
+  },
+  "subcategory_id": {
+    "$oid": "67c6b74ffaa07901250e74e7"
+  },
+  "price": 80000,
+  "description": "good features",
+  "stock": 8,
+  "image": "uploads/1741076372_shopping (5).jpg"
+},
+{
+  "_id": {
+    "$oid": "6811b686e7c174dcdc0b393c"
+  },
+  "name": "test",
+  "category_id": {
+    "$oid": "6811b5e5e7c174dcdc0b3939"
+  },
+  "subcategory_id": {
+    "$oid": "6811b65be7c174dcdc0b393b"
+  },
+  "price": 500000,
+  "description": "good product",
+  "stock": 2,
+  "image": "uploads/1745991302_Screenshot (41).png"
+}]

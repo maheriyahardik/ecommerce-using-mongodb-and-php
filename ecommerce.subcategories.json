@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "67c5d83922a5627d3908c00e"
+  },
+  "name": "Budget Laptops",
+  "category_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5d84922a5627d3908c00f"
+  },
+  "name": "Premium Laptops",
+  "category_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5d8cc22a5627d3908c010"
+  },
+  "name": " Premium Ultrabooks",
+  "category_id": {
+    "$oid": "67c5d74d22a5627d3908c007"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5d8dd22a5627d3908c011"
+  },
+  "name": "Business Ultrabooks",
+  "category_id": {
+    "$oid": "67c5d74d22a5627d3908c007"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5d92222a5627d3908c012"
+  },
+  "name": " Entry-Level Gaming Laptops",
+  "category_id": {
+    "$oid": "67c5d77f22a5627d3908c008"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5d93222a5627d3908c013"
+  },
+  "name": "Mid-Range Gaming Laptops",
+  "category_id": {
+    "$oid": "67c5d77f22a5627d3908c008"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5d97222a5627d3908c014"
+  },
+  "name": "Budget Business Laptops",
+  "category_id": {
+    "$oid": "67c5d78d22a5627d3908c009"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5d98222a5627d3908c015"
+  },
+  "name": " Premium Executive Laptops",
+  "category_id": {
+    "$oid": "67c5d78d22a5627d3908c009"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5da0122a5627d3908c016"
+  },
+  "name": "Budget Chromebooks",
+  "category_id": {
+    "$oid": "67c5d79a22a5627d3908c00a"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5da1622a5627d3908c017"
+  },
+  "name": "Touchscreen Chromebooks",
+  "category_id": {
+    "$oid": "67c5d79a22a5627d3908c00a"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5da4e22a5627d3908c018"
+  },
+  "name": "Mini Laptops",
+  "category_id": {
+    "$oid": "67c5d7a522a5627d3908c00b"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5da6122a5627d3908c019"
+  },
+  "name": "Student Netbooks",
+  "category_id": {
+    "$oid": "67c5d7a522a5627d3908c00b"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5daad22a5627d3908c01a"
+  },
+  "name": "MacBook Air",
+  "category_id": {
+    "$oid": "67c5d7b222a5627d3908c00c"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5dac322a5627d3908c01b"
+  },
+  "name": "MacBook M2",
+  "category_id": {
+    "$oid": "67c5d7b222a5627d3908c00c"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5daea22a5627d3908c01c"
+  },
+  "name": "Hybrid Laptops",
+  "category_id": {
+    "$oid": "67c5d7c222a5627d3908c00d"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5dafc22a5627d3908c01d"
+  },
+  "name": "Detachable Laptops",
+  "category_id": {
+    "$oid": "67c5d7c222a5627d3908c00d"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5de1c22a5627d3908c01e"
+  },
+  "name": "Detachable Laptops",
+  "category_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c5debe22a5627d3908c01f"
+  },
+  "name": "Premium Laptops",
+  "category_id": {
+    "$oid": "67c5d74222a5627d3908c006"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c6b74ffaa07901250e74e7"
+  },
+  "name": "iphone",
+  "category_id": {
+    "$oid": "67c6b739faa07901250e74e6"
+  }
+},
+{
+  "_id": {
+    "$oid": "6811b65be7c174dcdc0b393b"
+  },
+  "name": "test1",
+  "category_id": {
+    "$oid": "6811b5e5e7c174dcdc0b3939"
+  }
+}]
